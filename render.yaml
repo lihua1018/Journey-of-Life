@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: Journey-of-Life
+    env: python
+    buildCommand: ""
+    startCommand: python app.py
